@@ -1,0 +1,16 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "'trial'",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo 'done'"
+  },
+  "author": "John Mburu",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^2.30.0",
+    "server": "^1.0.38"
+  }
+}
